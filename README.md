@@ -6,7 +6,7 @@ In this lab, you'll update state using `setState()`.
 ## World record click counter
 ![Oldtimer stuff](http://il5.picdn.net/shutterstock/videos/15633112/thumb/1.jpg)
 
-We got a new job! Woo! This time, we're a judge for the Guinness World Records. We're no ordinary judge, however — we're a _modern day_ judge. We do things using _computers_. Instead of using those old, clunky clickity-things to count stuff for world records, we'll write our very own digital clicker!
+We got a new job! Woo! This time, we're a judge for the Guinness World Records. We're no ordinary judge, however — we're a _modern day_ judge. We do things using _computers_. Instead of using those old, clunky clickity-things to count stuff fonpr world records, we'll write our very own digital clicker!
 
 1. In the `components/DigitalClicker.js` file, create a `DigitalClicker` React component.
 2. This component has an initial state property called `timesClicked`, which is initially defined as 0.
